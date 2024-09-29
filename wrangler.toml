@@ -1,3 +1,4 @@
 name = "sleep"
 main = "index.js"
 compatibility_date = "2024-09-29"
+observability.enabled = true
